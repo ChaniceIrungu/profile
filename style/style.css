@@ -46,7 +46,7 @@ a {
   border-radius: 5px;
   transition: 0.3s ease;
 }
-
+/* hpver for atag */
 a:hover {
   background-color: #86b6f6;
 }
