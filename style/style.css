@@ -63,6 +63,9 @@ a:hover {
   line-height: 1.6;
 }
 
+.projects_sub{
+  font-size: xx-small;
+}
 .card:hover {
   transform: translateY(-5px);
   box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
